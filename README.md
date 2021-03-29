@@ -1,0 +1,2 @@
+# technikiObliczeniowe-Lab
+Matlab - laboratoria
