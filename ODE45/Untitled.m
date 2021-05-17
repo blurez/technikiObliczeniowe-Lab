@@ -1,0 +1,1 @@
+ode45(@ODE,[0 100],[1 2],odeset('OutputSel',1));
